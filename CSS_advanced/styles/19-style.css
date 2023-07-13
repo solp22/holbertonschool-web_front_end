@@ -147,7 +147,7 @@ ul.row {
 }
 .col-1-2 {
     width: 50%;
-    float: right;
+    float: left;
     padding: 0.5rem;
 }
 .footer-copyright {
