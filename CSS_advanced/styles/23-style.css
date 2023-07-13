@@ -168,7 +168,7 @@ ul.row {
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
 }
-.footer-adress {
+.footer-address {
     color: var(--text-color);
 }
 .social-link {
